@@ -10,6 +10,8 @@ This is a Django-based e-commerce store that allows users to browse products, pl
 - Order placement and management
 - Admin panel for managing products, orders, and users
 - REST API for accessing store data
+- Online Payments with Stipe API
+- Caching with Redis and Celery for asynchronous tasks
 
 ## Installation
 
