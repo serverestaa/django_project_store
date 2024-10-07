@@ -27,23 +27,23 @@ This is a Django-based e-commerce store that allows users to browse products, pl
 
 
 3.	Install dependencies:
-  ```
+   ```
     pip install -r requirements.txt
-  ```
+   ```
 
 4.	Apply migrations:
-```
+   ```
     python manage.py migrate
-```
+   ```
 
 5.	Run the development server:
-```
+   ```
     python manage.py runserver
-```
+   ```
 
 
 Project Structure
-```
+   ```
 .
 ├── api
 │   ├── __init__.py
@@ -254,6 +254,4 @@ Project Structure
     ├── tests.py
     ├── urls.py
     └── views.py
-```
-
-4. Save the file, commit the changes, and push it to your GitHub repository.
+   ```
